@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+.number1{
+    background-color:hsl(351, 100%, 86%);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+.odd{
+    font-size: 24px;
+}
+#savej{
+    color: #0000ff;
+    font-size: 36px;
+}#savej2{
+    background-color: hsl(120, 100%, 75%);
+    font-size: 24px;
+    font-weight: bold;
+}
